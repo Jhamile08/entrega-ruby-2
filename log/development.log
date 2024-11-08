@@ -1,0 +1,3453 @@
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (104.8ms)[0m  [1m[35mCREATE DATABASE "bby1qrhuzsjx8gmmisnh" ENCODING = 'unicode'[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (104.9ms)[0m  [1m[35mCREATE DATABASE "bby1qrhuzsjx8gmmisnh" ENCODING = 'unicode'[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (7541.4ms)[0m  [1m[35mCREATE DATABASE "bby1qrhuzsjx8gmmisnh" ENCODING = 'unicode'[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (11375.2ms)[0m  [1m[35mCREATE DATABASE "bby1qrhuzsjx8gmmisnh" ENCODING = 'unicode'[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/" for 127.0.0.1 at 2024-11-06 08:47:25 -0500
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1079.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (194.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (209.6ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8713984523286786030)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (300.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (404.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[36mActiveRecord::InternalMetadata Update (212.8ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = 'development', "updated_at" = '2024-11-06 14:13:08.301974' WHERE "ar_internal_metadata"."key" = 'environment'[0m
+  [1m[35m (310.9ms)[0m  [1m[34mSELECT pg_advisory_unlock(8713984523286786030)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (206.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (294.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (11241.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (1183.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (3775.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/railties-7.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/railties-7.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | GC: 0.3ms)
+Completed 200 OK in 20ms (Views: 3.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 12.6ms)
+
+
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (208.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2458.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (11380.9ms)[0m  [1m[34mSELECT pg_try_advisory_lock(4762013644722345900)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (219.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (320.3ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[36mActiveRecord::InternalMetadata Create (282.6ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2024-11-06 15:22:57.271708', '2024-11-06 15:22:57.271717') RETURNING "key"[0m
+Migrating to CreateEventInfo (20241106152155)
+  [1m[36mTRANSACTION (775.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1100.8ms)[0m  [1m[35mCREATE TABLE "event_infos" ("id" bigserial primary key, "eventName" character varying, "level" character varying, "descripcion" text, "exhibitor" character varying, "date" timestamp(6), "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (410.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20241106152155') RETURNING "version"[0m
+  [1m[36mTRANSACTION (1542.6ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (302.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(4762013644722345900)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (835.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:29:05 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (712.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:34:07 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:35:22 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:35:24 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:36:15 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:38:03 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 11:58:20 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:07:09 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:07:51 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendered events/index.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `each' for nil:NilClass)
+    2: <h1>Events</h1>
+    3: 
+    4: <div id="events">
+    5:   <% @events.each do |event| %>
+    6:     <%= render event %>
+    7:     <p>
+    8:       <%= link_to "Show this event", event %>
+  
+app/views/events/index.html.erb:5
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:08:08 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendered events/index.html.erb within layouts/application (Duration: 0.9ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.2ms)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `each' for nil:NilClass)
+    2: <h1>Events</h1>
+    3: 
+    4: <div id="events">
+    5:   <% @events.each do |event| %>
+    6:     <%= render event %>
+    7:     <p>
+    8:       <%= link_to "Show this event", event %>
+  
+app/views/events/index.html.erb:5
+Started GET "/favicon.ico" for 127.0.0.1 at 2024-11-06 12:08:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:13:16 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:13:18 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:13:19 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:14:32 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:14:36 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 3.5ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:14:37 -0500
+Processing by EventsController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `all' for Event:Module):
+  
+app/controllers/events_controller.rb:3:in `index'
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:16:41 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (229.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (4845.4ms)[0m  [1m[34mSELECT "events".* FROM "events"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 4854.8ms | GC: 7.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 4855.3ms | GC: 7.5ms)
+Completed 500 Internal Server Error in 4877ms (ActiveRecord: 6716.4ms (1 query, 0 cached) | GC: 9.9ms)
+
+
+  
+ActionView::Template::Error (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+):
+
+Causes:
+ActiveRecord::StatementInvalid (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+PG::UndefinedTable (ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+    3: <h1>Events</h1>
+    4: 
+    5: <div id="events">
+    6:   <% @events.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:16:53 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (197.3ms)[0m  [1m[34mSELECT "events".* FROM "events"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 199.2ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 199.5ms | GC: 0.3ms)
+Completed 500 Internal Server Error in 201ms (ActiveRecord: 197.2ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+  
+ActionView::Template::Error (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+):
+
+Causes:
+ActiveRecord::StatementInvalid (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+PG::UndefinedTable (ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+    3: <h1>Events</h1>
+    4: 
+    5: <div id="events">
+    6:   <% @events.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (308.7ms)[0m  [1m[34mSELECT pg_try_advisory_lock(4762013644722345900)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (171.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (170.1ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[35m (168.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(4762013644722345900)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (164.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:18:54 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (160.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (2949.8ms)[0m  [1m[34mSELECT "events".* FROM "events"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 2953.1ms | GC: 1.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2953.4ms | GC: 1.0ms)
+Completed 500 Internal Server Error in 2972ms (ActiveRecord: 4346.4ms (1 query, 0 cached) | GC: 2.1ms)
+
+
+  
+ActionView::Template::Error (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+):
+
+Causes:
+ActiveRecord::StatementInvalid (PG::UndefinedTable: ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+PG::UndefinedTable (ERROR:  relation "events" does not exist
+LINE 1: SELECT "events".* FROM "events"
+                               ^
+)
+    3: <h1>Events</h1>
+    4: 
+    5: <div id="events">
+    6:   <% @events.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:21:33 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendered events/index.html.erb within layouts/application (Duration: 1.6ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `each' for nil:NilClass)
+    3: <h1>Events</h1>
+    4: 
+    5: 
+    6:   <% @event_infos.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+app/views/events/index.html.erb:6
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:23:49 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendered events/index.html.erb within layouts/application (Duration: 0.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `each' for nil:NilClass)
+    3: <h1>Events</h1>
+    4: 
+    5: 
+    6:   <% @event_infos.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+app/views/events/index.html.erb:6
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:23:51 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendered events/index.html.erb within layouts/application (Duration: 0.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `each' for nil:NilClass)
+    3: <h1>Events</h1>
+    4: 
+    5: 
+    6:   <% @event_infos.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+  
+app/views/events/index.html.erb:6
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:24:09 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (484.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 486.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 684.5ms | GC: 28.9ms)
+Completed 200 OK in 689ms (Views: 201.6ms | ActiveRecord: 484.5ms (1 query, 0 cached) | GC: 29.2ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:25:02 -0500
+Processing by EventsController#new as HTML
+Completed 406 Not Acceptable in 2204ms (ActiveRecord: 2195.6ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionController::MissingExactTemplate (EventsController#new is missing a template for request formats: text/html):
+  
+actionpack (7.2.2) lib/action_controller/metal/implicit_render.rb:49:in `default_render'
+actionpack (7.2.2) lib/action_controller/metal/basic_implicit_render.rb:9:in `send_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:226:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rendering.rb:193:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:261:in `block in process_action'
+activesupport (7.2.2) lib/active_support/callbacks.rb:121:in `block in run_callbacks'
+turbo-rails (2.0.11) lib/turbo-rails.rb:24:in `with_request_id'
+turbo-rails (2.0.11) app/controllers/concerns/turbo/request_id_tracking.rb:10:in `turbo_tracking_request_id'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+actiontext (7.2.2) lib/action_text/rendering.rb:25:in `with_renderer'
+actiontext (7.2.2) lib/action_text/engine.rb:71:in `block (4 levels) in <class:Engine>'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `instance_exec'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+activesupport (7.2.2) lib/active_support/callbacks.rb:141:in `run_callbacks'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:260:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rescue.rb:27:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:77:in `block in process_action'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `block in instrument'
+activesupport (7.2.2) lib/active_support/notifications/instrumenter.rb:58:in `instrument'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `instrument'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:76:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.2.2) lib/active_record/railties/controller_runtime.rb:39:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:163:in `process'
+actionview (7.2.2) lib/action_view/rendering.rb:40:in `process'
+actionpack (7.2.2) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (7.2.2) lib/action_controller/metal.rb:335:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:67:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:50:in `serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:53:in `block in serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:133:in `block in find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `each'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:34:in `serve'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:896:in `call'
+rack (3.1.8) lib/rack/tempfile_reaper.rb:20:in `call'
+rack (3.1.8) lib/rack/etag.rb:29:in `call'
+rack (3.1.8) lib/rack/conditional_get.rb:31:in `call'
+rack (3.1.8) lib/rack/head.rb:15:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/content_security_policy.rb:35:in `call'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:272:in `context'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:266:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.2.2) lib/active_record/migration.rb:674:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:31:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:30:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in `call'
+railties (7.2.2) lib/rails/rack/logger.rb:41:in `call_app'
+railties (7.2.2) lib/rails/rack/logger.rb:29:in `call'
+sprockets-rails (3.5.2) lib/sprockets/rails/quiet_assets.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/remote_ip.rb:96:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/request_id.rb:33:in `call'
+rack (3.1.8) lib/rack/method_override.rb:28:in `call'
+rack (3.1.8) lib/rack/runtime.rb:24:in `call'
+activesupport (7.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/static.rb:27:in `call'
+rack (3.1.8) lib/rack/sendfile.rb:114:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/host_authorization.rb:143:in `call'
+railties (7.2.2) lib/rails/engine.rb:535:in `call'
+puma (6.4.3) lib/puma/configuration.rb:272:in `call'
+puma (6.4.3) lib/puma/request.rb:100:in `block in handle_request'
+puma (6.4.3) lib/puma/thread_pool.rb:378:in `with_force_shutdown'
+puma (6.4.3) lib/puma/request.rb:99:in `handle_request'
+puma (6.4.3) lib/puma/server.rb:464:in `process_client'
+puma (6.4.3) lib/puma/server.rb:245:in `block in run'
+puma (6.4.3) lib/puma/thread_pool.rb:155:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:25:07 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (283.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 284.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 304.9ms | GC: 0.0ms)
+Completed 200 OK in 306ms (Views: 22.5ms | ActiveRecord: 283.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:29:27 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 0.9ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 1.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 1925ms (ActiveRecord: 1914.7ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_with(model: event) do |form| %>
+    <% if event.errors.any? %>
+        <div style="color: red">
+        <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+
+        <ul>
+            <% event.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+            <% end %>
+        </ul>
+        </div>
+    <% end %>
+
+    <div>
+         <%= form.label :eventName  %>
+         <%= form.text_field :eventName %>
+    </div>
+
+    <div>
+         <%= form.label :exhibitor  %>
+         <%= form.text_field :exhibitor %>
+    </div>    
+
+
+    <div>
+         <%= form.label :level  %>
+         <%= form.text_field :level %>
+    </div>
+
+    <div>
+         <%= form.label :descripcion  %>
+         <%= form.text_area :descripcion %>
+    </div>    
+
+
+    <div>
+        <%= form.label :date %>
+        <%= form.date_field :date %>
+    </div>
+
+    <div>
+        <%= form.submit %>
+    </div>
+
+<%= end %>
+):
+
+Causes:
+ActiveSupport::SyntaxErrorProxy (/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:45: syntax error, unexpected `end'
+...ze; @output_buffer.append=( end );
+...                            ^~~
+/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:47: syntax error, unexpected end-of-input
+          end
+             ^
+)
+1:    <%= form_with(model: event) do |form| %>
+2:        <% if event.errors.any? %>
+3:            <div style="color: red">
+4:            <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+5:    
+6:            <ul>
+7:                <% event.errors.each do |error| %>
+8:                <li><%= error.full_message %></li>
+9:                <% end %>
+10:            </ul>
+11:            </div>
+12:        <% end %>
+13:    
+14:        <div>
+15:             <%= form.label :eventName  %>
+16:             <%= form.text_field :eventName %>
+17:        </div>
+18:    
+19:        <div>
+20:             <%= form.label :exhibitor  %>
+21:             <%= form.text_field :exhibitor %>
+22:        </div>    
+23:    
+24:    
+25:        <div>
+26:             <%= form.label :level  %>
+27:             <%= form.text_field :level %>
+28:        </div>
+29:    
+30:        <div>
+31:             <%= form.label :descripcion  %>
+32:             <%= form.text_area :descripcion %>
+33:        </div>    
+34:    
+35:    
+36:        <div>
+37:            <%= form.label :date %>
+38:            <%= form.date_field :date %>
+39:        </div>
+40:    
+41:        <div>
+42:            <%= form.submit %>
+43:        </div>
+44:    
+45:    <%= end %>
+  
+app/views/events/_form.html.erb:45: syntax error, unexpected `end'
+app/views/events/_form.html.erb:47: syntax error, unexpected end-of-input
+app/views/events/new.html.erb:2
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:31:23 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.0ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 4.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 1870ms (ActiveRecord: 1857.6ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_with(model: event) do |form| %>
+    <% if event.errors.any? %>
+        <div style="color: red">
+        <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+
+        <ul>
+            <% event.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+            <% end %>
+        </ul>
+        </div>
+    <% end %>
+
+    <div>
+         <%= form.label :eventName  %>
+         <%= form.text_field :eventName %>
+    </div>
+
+    <div>
+         <%= form.label :exhibitor  %>
+         <%= form.text_field :exhibitor %>
+    </div>    
+
+
+    <div>
+         <%= form.label :level  %>
+         <%= form.text_field :level %>
+    </div>
+
+    <div>
+         <%= form.label :descripcion  %>
+         <%= form.text_area :descripcion %>
+    </div>    
+
+
+    <div>
+        <%= form.label :date %>
+        <%= form.date_field :date %>
+    </div>
+
+    <div>
+        <%= form.submit %>
+    </div>
+
+<%= end %>
+):
+
+Causes:
+ActiveSupport::SyntaxErrorProxy (/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:45: syntax error, unexpected `end'
+...ze; @output_buffer.append=( end );
+...                            ^~~
+/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:47: syntax error, unexpected end-of-input
+          end
+             ^
+)
+1:    <%= form_with(model: event) do |form| %>
+2:        <% if event.errors.any? %>
+3:            <div style="color: red">
+4:            <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+5:    
+6:            <ul>
+7:                <% event.errors.each do |error| %>
+8:                <li><%= error.full_message %></li>
+9:                <% end %>
+10:            </ul>
+11:            </div>
+12:        <% end %>
+13:    
+14:        <div>
+15:             <%= form.label :eventName  %>
+16:             <%= form.text_field :eventName %>
+17:        </div>
+18:    
+19:        <div>
+20:             <%= form.label :exhibitor  %>
+21:             <%= form.text_field :exhibitor %>
+22:        </div>    
+23:    
+24:    
+25:        <div>
+26:             <%= form.label :level  %>
+27:             <%= form.text_field :level %>
+28:        </div>
+29:    
+30:        <div>
+31:             <%= form.label :descripcion  %>
+32:             <%= form.text_area :descripcion %>
+33:        </div>    
+34:    
+35:    
+36:        <div>
+37:            <%= form.label :date %>
+38:            <%= form.date_field :date %>
+39:        </div>
+40:    
+41:        <div>
+42:            <%= form.submit %>
+43:        </div>
+44:    
+45:    <%= end %>
+  
+app/views/events/_form.html.erb:45: syntax error, unexpected `end'
+app/views/events/_form.html.erb:47: syntax error, unexpected end-of-input
+app/views/events/new.html.erb:2
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:31:52 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 4.0ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 6.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | GC: 4.0ms)
+Completed 200 OK in 1391ms (Views: 20.7ms | ActiveRecord: 1364.3ms (0 queries, 0 cached) | GC: 4.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:31:59 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (168.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 171.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 174.8ms | GC: 0.8ms)
+Completed 200 OK in 179ms (Views: 7.0ms | ActiveRecord: 168.7ms (1 query, 0 cached) | GC: 0.8ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:00 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.1ms | GC: 0.5ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.3ms | GC: 0.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | GC: 0.5ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:32:01 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (259.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 261.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 263.3ms | GC: 0.0ms)
+Completed 200 OK in 265ms (Views: 4.5ms | ActiveRecord: 259.2ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:02 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.7ms | GC: 0.3ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.1ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | GC: 0.3ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:05 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | GC: 0.4ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.8ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:30 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.0ms | GC: 0.1ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 3.7ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | GC: 0.1ms)
+Completed 500 Internal Server Error in 995ms (ActiveRecord: 983.5ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_with(model: event) do |form| %>
+    <% if event.errors.any? %>
+        <div style="color: red">
+        <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+
+        <ul>
+            <% event.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+            <% end %>
+        </ul>
+        </div>
+    <% end %>
+
+    <div>
+         <%= form.label :Event name  %>
+         <%= form.text_field :eventName %>
+    </div>
+
+    <div>
+         <%= form.label :exhibitor  %>
+         <%= form.text_field :exhibitor %>
+    </div>    
+
+
+    <div>
+         <%= form.label :level  %>
+         <%= form.text_field :level %>
+    </div>
+
+    <div>
+         <%= form.label :descripcion  %>
+         <%= form.text_area :descripcion %>
+    </div>    
+
+
+    <div>
+        <%= form.label :date %>
+        <%= form.date_field :date %>
+    </div>
+
+    <div>
+        <%= form.submit %>
+    </div>
+
+<% end %>
+):
+
+Causes:
+ActiveSupport::SyntaxErrorProxy (/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:15: syntax error, unexpected local variable or method, expecting ')'
+...append=( form.label :Event name  ); @output_buffer.safe_appe...
+...                           ^~~~
+)
+1:    <%= form_with(model: event) do |form| %>
+2:        <% if event.errors.any? %>
+3:            <div style="color: red">
+4:            <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+5:    
+6:            <ul>
+7:                <% event.errors.each do |error| %>
+8:                <li><%= error.full_message %></li>
+9:                <% end %>
+10:            </ul>
+11:            </div>
+12:        <% end %>
+13:    
+14:        <div>
+15:             <%= form.label :Event name  %>
+16:             <%= form.text_field :eventName %>
+17:        </div>
+18:    
+19:        <div>
+20:             <%= form.label :exhibitor  %>
+21:             <%= form.text_field :exhibitor %>
+22:        </div>    
+23:    
+24:    
+25:        <div>
+26:             <%= form.label :level  %>
+27:             <%= form.text_field :level %>
+28:        </div>
+29:    
+30:        <div>
+31:             <%= form.label :descripcion  %>
+32:             <%= form.text_area :descripcion %>
+33:        </div>    
+34:    
+35:    
+36:        <div>
+37:            <%= form.label :date %>
+38:            <%= form.date_field :date %>
+39:        </div>
+40:    
+41:        <div>
+42:            <%= form.submit %>
+43:        </div>
+44:    
+45:    <% end %>
+  
+app/views/events/_form.html.erb:15: syntax error, unexpected local variable or method, expecting ')'
+app/views/events/new.html.erb:2
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:37 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.5ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 5.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 18.6ms | GC: 4.4ms)
+Completed 200 OK in 1024ms (Views: 20.9ms | ActiveRecord: 995.6ms (0 queries, 0 cached) | GC: 5.3ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:32:39 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (217.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 218.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 222.3ms | GC: 0.9ms)
+Completed 200 OK in 223ms (Views: 5.4ms | ActiveRecord: 217.3ms (1 query, 0 cached) | GC: 0.9ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:32:50 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.9ms | GC: 0.1ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 5.7ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 15.2ms | GC: 0.4ms)
+Completed 200 OK in 1350ms (Views: 16.2ms | ActiveRecord: 1327.9ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:33:28 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (162.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 165.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 167.2ms | GC: 0.0ms)
+Completed 200 OK in 168ms (Views: 5.2ms | ActiveRecord: 162.5ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-06 12:33:28 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Create Event"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+NameError (undefined local variable or method `event_params' for #<EventsController:0x0000000002d208>):
+  
+app/controllers/events_controller.rb:14:in `create'
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:33:46 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.1ms | GC: 0.2ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.7ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 11.2ms | GC: 0.8ms)
+Completed 200 OK in 1058ms (Views: 12.4ms | ActiveRecord: 1038.7ms (0 queries, 0 cached) | GC: 1.1ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-06 12:33:48 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Create Event"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `save' for nil:NilClass):
+  
+app/controllers/events_controller.rb:15:in `create'
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:34:09 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 13.5ms | GC: 1.0ms)
+Completed 200 OK in 1927ms (Views: 14.5ms | ActiveRecord: 1906.1ms (0 queries, 0 cached) | GC: 1.5ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-06 12:34:12 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Create Event"}
+  [1m[36mTRANSACTION (306.9ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+  [1m[36mEvent Create (519.2ms)[0m  [1m[32mINSERT INTO "event_infos" ("eventName", "level", "descripcion", "exhibitor", "date", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["eventName", "scissors"], ["level", "advanced"], ["descripcion", "dfdfdfdf"], ["exhibitor", "leandro"], ["date", "2024-11-07 00:00:00"], ["created_at", "2024-11-06 17:34:12.590606"], ["updated_at", "2024-11-06 17:34:12.590606"]]
+  ↳ app/controllers/events_controller.rb:15:in `create'
+  [1m[36mTRANSACTION (405.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+Redirected to http://127.0.0.1:3000/events
+Completed 302 Found in 931ms (ActiveRecord: 1231.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:34:13 -0500
+Processing by EventsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:34:13 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (292.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 295.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 295.7ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 297ms (ActiveRecord: 292.8ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial events/_event with {:locale=>[:en], :formats=>[:html, :turbo_stream], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}.
+
+Searched in:
+  * "/home/andrea/Desktop/ruby/event/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/turbo-rails-2.0.11/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actiontext-7.2.2/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actionmailbox-7.2.2/app/views"
+):
+
+Causes:
+ActionView::MissingTemplate (Missing partial events/_event with {:locale=>[:en], :formats=>[:html, :turbo_stream], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}.
+
+Searched in:
+  * "/home/andrea/Desktop/ruby/event/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/turbo-rails-2.0.11/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actiontext-7.2.2/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actionmailbox-7.2.2/app/views"
+)
+    4: 
+    5: 
+    6:   <% @events.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+   10:     </p>
+  
+app/views/events/index.html.erb:7
+app/views/events/index.html.erb:6
+  [1m[36mEvent Load (5453.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 5456.1ms | GC: 116.8ms)
+  Rendered layout layouts/application.html.erb (Duration: 5456.4ms | GC: 116.8ms)
+Completed 500 Internal Server Error in 5457ms (ActiveRecord: 7598.0ms (1 query, 0 cached) | GC: 116.8ms)
+
+
+  
+ActionView::Template::Error (Missing partial events/_event with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}.
+
+Searched in:
+  * "/home/andrea/Desktop/ruby/event/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/turbo-rails-2.0.11/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actiontext-7.2.2/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actionmailbox-7.2.2/app/views"
+):
+
+Causes:
+ActionView::MissingTemplate (Missing partial events/_event with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}.
+
+Searched in:
+  * "/home/andrea/Desktop/ruby/event/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/turbo-rails-2.0.11/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actiontext-7.2.2/app/views"
+  * "/home/andrea/.rbenv/versions/3.2.5/lib/ruby/gems/3.2.0/gems/actionmailbox-7.2.2/app/views"
+)
+    4: 
+    5: 
+    6:   <% @events.each do |event| %>
+    7:     <%= render event %>
+    8:     <p>
+    9:       <%= link_to "Show this event", event %>
+   10:     </p>
+  
+app/views/events/index.html.erb:7
+app/views/events/index.html.erb:6
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:37:21 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 16.6ms | GC: 0.8ms)
+Completed 200 OK in 1951ms (Views: 17.8ms | ActiveRecord: 1923.8ms (0 queries, 0 cached) | GC: 1.3ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-06 12:37:24 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Create Event"}
+  [1m[36mTRANSACTION (264.9ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+  [1m[36mEvent Create (552.5ms)[0m  [1m[32mINSERT INTO "event_infos" ("eventName", "level", "descripcion", "exhibitor", "date", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["eventName", "scissors"], ["level", "advanced"], ["descripcion", "dfdfdfdf"], ["exhibitor", "leandro"], ["date", "2024-11-07 00:00:00"], ["created_at", "2024-11-06 17:37:24.513196"], ["updated_at", "2024-11-06 17:37:24.513196"]]
+  ↳ app/controllers/events_controller.rb:15:in `create'
+  [1m[36mTRANSACTION (328.8ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+Redirected to http://127.0.0.1:3000/events
+Completed 302 Found in 886ms (ActiveRecord: 1146.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:37:25 -0500
+Processing by EventsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (192.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.8ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 196.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 197.7ms | GC: 0.0ms)
+Completed 200 OK in 200ms (Views: 5.9ms | ActiveRecord: 192.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 12:37:32 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/show.html.erb within layouts/application (Duration: 1.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.):
+
+Causes:
+ArgumentError ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.)
+    1: <%= render @event %>
+    2: 
+    3: <div>
+    4:   <%= link_to "Edit this event", edit_event_path(@event) %> |
+  
+app/views/events/show.html.erb:1
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:37:35 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (156.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 159.9ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 161.8ms | GC: 0.2ms)
+Completed 200 OK in 163ms (Views: 5.5ms | ActiveRecord: 156.7ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 12:44:22 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/show.html.erb within layouts/application (Duration: 0.7ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | GC: 0.2ms)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.):
+
+Causes:
+ArgumentError ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.)
+    1: <%= render @event %>
+    2: 
+    3: <div>
+    4:   <%= link_to "Edit this event", edit_event_path(@event) %> |
+  
+app/views/events/show.html.erb:1
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:44:31 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:44:33 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.4ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 1.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | GC: 0.0ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  [1m[36mEvent Load (3739.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 3741.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3743.3ms | GC: 0.0ms)
+Completed 200 OK in 3744ms (Views: -1982.4ms | ActiveRecord: 5726.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-06 12:44:37 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Create Event"}
+  [1m[36mTRANSACTION (163.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:44:38 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Create (328.3ms)[0m  [1m[32mINSERT INTO "event_infos" ("eventName", "level", "descripcion", "exhibitor", "date", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["eventName", "scissors"], ["level", "advanced"], ["descripcion", "dfdfdfdf"], ["exhibitor", "leandro"], ["date", "2024-11-07 00:00:00"], ["created_at", "2024-11-06 17:44:37.686158"], ["updated_at", "2024-11-06 17:44:37.686158"]]
+  ↳ app/controllers/events_controller.rb:15:in `create'
+  [1m[36mTRANSACTION (164.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:15:in `create'
+Redirected to http://127.0.0.1:3000/events
+Completed 302 Found in 501ms (ActiveRecord: 655.5ms (1 query, 0 cached) | GC: 3.1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:44:38 -0500
+Processing by EventsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (163.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.5ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 168.8ms | GC: 0.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 171.4ms | GC: 0.6ms)
+Completed 200 OK in 173ms (Views: 8.5ms | ActiveRecord: 163.4ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+  [1m[36mEvent Load (5163.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 5167.7ms | GC: 4.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 5169.2ms | GC: 4.5ms)
+Completed 200 OK in 5170ms (Views: -2395.7ms | ActiveRecord: 7565.2ms (1 query, 0 cached) | GC: 4.5ms)
+
+
+Started GET "/events/3" for 127.0.0.1 at 2024-11-06 12:44:57 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/show.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.6ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.):
+
+Causes:
+ArgumentError ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.)
+    1: <%= render @event %>
+    2: 
+    3: <div>
+    4:   <%= link_to "Edit this event", edit_event_path(@event) %> |
+  
+app/views/events/show.html.erb:1
+Started GET "/events/3" for 127.0.0.1 at 2024-11-06 12:45:18 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/show.html.erb within layouts/application (Duration: 0.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.7ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.):
+
+Causes:
+ArgumentError ('nil' is not an ActiveModel-compatible object. It must implement #to_partial_path.)
+    1: <%= render @event %>
+    2: 
+    3: <div>
+    4:   <%= link_to "Edit this event", edit_event_path(@event) %> |
+  
+app/views/events/show.html.erb:1
+Started GET "/events/3" for 127.0.0.1 at 2024-11-06 12:47:44 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:47:45 -0500
+  [1m[36mEvent Load (173.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.5ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.8ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | GC: 1.7ms)
+Completed 200 OK in 1945ms (Views: 17.3ms | ActiveRecord: 1738.7ms (1 query, 0 cached) | GC: 2.7ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:47:46 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+Processing by EventsController#new as HTML
+  [1m[36mEvent Load (181.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:47:46 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.5ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 4.9ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 1.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 1255.9ms | GC: 0.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 36.9ms | GC: 6.7ms)
+Completed 200 OK in 1276ms (Views: 37.6ms | ActiveRecord: 1233.7ms (0 queries, 0 cached) | GC: 6.9ms)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 1283.9ms | GC: 7.2ms)
+Completed 200 OK in 1288ms (Views: 404.0ms | ActiveRecord: 881.3ms (1 query, 0 cached) | GC: 7.2ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-06 12:47:47 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.3ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | GC: 0.0ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:47:48 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (232.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 235.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 237.2ms | GC: 0.2ms)
+Completed 200 OK in 238ms (Views: 5.1ms | ActiveRecord: 232.5ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 12:47:49 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (3810.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  [1m[36mEvent Load (446.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 3814.4ms | GC: 8.0ms)
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.0ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3818.8ms | GC: 8.2ms)
+Completed 200 OK in 3820ms (Views: -1783.7ms | ActiveRecord: 5602.9ms (1 query, 0 cached) | GC: 8.2ms)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | GC: 0.2ms)
+Completed 200 OK in 852ms (Views: 5.5ms | ActiveRecord: 446.3ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 12:47:53 -0500
+  
+AbstractController::ActionNotFound (The action 'edit' could not be found for EventsController):
+  
+actionpack (7.2.2) lib/abstract_controller/base.rb:158:in `process'
+actionview (7.2.2) lib/action_view/rendering.rb:40:in `process'
+actionpack (7.2.2) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (7.2.2) lib/action_controller/metal.rb:335:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:67:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:50:in `serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:53:in `block in serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:133:in `block in find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `each'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:34:in `serve'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:896:in `call'
+rack (3.1.8) lib/rack/tempfile_reaper.rb:20:in `call'
+rack (3.1.8) lib/rack/etag.rb:29:in `call'
+rack (3.1.8) lib/rack/conditional_get.rb:31:in `call'
+rack (3.1.8) lib/rack/head.rb:15:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/content_security_policy.rb:35:in `call'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:272:in `context'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:266:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.2.2) lib/active_record/migration.rb:674:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:31:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:30:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in `call'
+railties (7.2.2) lib/rails/rack/logger.rb:41:in `call_app'
+railties (7.2.2) lib/rails/rack/logger.rb:29:in `call'
+sprockets-rails (3.5.2) lib/sprockets/rails/quiet_assets.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/remote_ip.rb:96:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/request_id.rb:33:in `call'
+rack (3.1.8) lib/rack/method_override.rb:28:in `call'
+rack (3.1.8) lib/rack/runtime.rb:24:in `call'
+activesupport (7.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/static.rb:27:in `call'
+rack (3.1.8) lib/rack/sendfile.rb:114:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/host_authorization.rb:143:in `call'
+railties (7.2.2) lib/rails/engine.rb:535:in `call'
+puma (6.4.3) lib/puma/configuration.rb:272:in `call'
+puma (6.4.3) lib/puma/request.rb:100:in `block in handle_request'
+puma (6.4.3) lib/puma/thread_pool.rb:378:in `with_force_shutdown'
+puma (6.4.3) lib/puma/request.rb:99:in `handle_request'
+puma (6.4.3) lib/puma/server.rb:464:in `process_client'
+puma (6.4.3) lib/puma/server.rb:245:in `block in run'
+puma (6.4.3) lib/puma/thread_pool.rb:155:in `block in spawn_thread'
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:48:00 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (177.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 181.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 183.8ms | GC: 0.0ms)
+Completed 200 OK in 185ms (Views: 7.3ms | ActiveRecord: 177.1ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:48:01 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (172.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.0ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 174.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 176.9ms | GC: 0.0ms)
+Completed 200 OK in 178ms (Views: 5.5ms | ActiveRecord: 171.9ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 12:52:49 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (320.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.6ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 3.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 20.1ms | GC: 2.2ms)
+Completed 200 OK in 3026ms (Views: 21.8ms | ActiveRecord: 2690.2ms (1 query, 0 cached) | GC: 2.8ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:52:53 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (489.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 493.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 493.8ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 497ms (ActiveRecord: 489.4ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event_full' for #<ActionView::Base:0x00000000045268>):
+
+Causes:
+NameError (undefined local variable or method `event_full' for #<ActionView::Base:0x00000000045268>)
+     6:   <% @events.each do |event| %>
+     7:     <%= render event %>
+     8:     <p>
+     9:       <%= link_to "Show this event", event_full %>
+    10:     </p>
+    11:   <% end %>
+  
+app/views/events/index.html.erb:9
+app/views/events/index.html.erb:6
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:53:09 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (468.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.7ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 2337.8ms | GC: 8.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 2338.2ms | GC: 8.4ms)
+Completed 500 Internal Server Error in 2344ms (ActiveRecord: 2318.3ms (1 query, 0 cached) | GC: 9.3ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event_full' for #<ActionView::Base:0x00000000048fd0>):
+
+Causes:
+NameError (undefined local variable or method `event_full' for #<ActionView::Base:0x00000000048fd0>)
+     6:   <% @events.each do |event| %>
+     7:     <%= render event %>
+     8:     <p>
+     9:       <%= link_to "Show this event", event_full %>
+    10:     </p>
+    11:   <% end %>
+  
+app/views/events/index.html.erb:9
+app/views/events/index.html.erb:6
+Started GET "/events" for 127.0.0.1 at 2024-11-06 12:53:13 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (318.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 321.2ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 321.4ms | GC: 0.2ms)
+Completed 500 Internal Server Error in 322ms (ActiveRecord: 318.3ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000492c8>):
+
+Causes:
+NameError (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000492c8>)
+     6:   <% @events.each do |event| %>
+     7:     <%= render event %>
+     8:     <p>
+     9:       <%= link_to "Show this event", event_full %>
+    10:     </p>
+    11:   <% end %>
+  
+app/views/events/index.html.erb:9
+app/views/events/index.html.erb:6
+Started GET "/" for 127.0.0.1 at 2024-11-06 12:53:19 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (456.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 460.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 460.5ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 462ms (ActiveRecord: 456.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000495c0>):
+
+Causes:
+NameError (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000495c0>)
+     6:   <% @events.each do |event| %>
+     7:     <%= render event %>
+     8:     <p>
+     9:       <%= link_to "Show this event", event_full %>
+    10:     </p>
+    11:   <% end %>
+  
+app/views/events/index.html.erb:9
+app/views/events/index.html.erb:6
+Started GET "/" for 127.0.0.1 at 2024-11-06 13:57:54 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (3366.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/index.html.erb within layouts/application (Duration: 3372.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3381.4ms | GC: 0.0ms)
+Completed 200 OK in 3385ms (Views: -1340.6ms | ActiveRecord: 4723.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1/full" for 127.0.0.1 at 2024-11-06 13:57:59 -0500
+Processing by EventsController#full as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (164.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:16:in `full'
+Completed 406 Not Acceptable in 667ms (ActiveRecord: 328.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionController::MissingExactTemplate (EventsController#full is missing a template for request formats: text/html):
+  
+actionpack (7.2.2) lib/action_controller/metal/implicit_render.rb:49:in `default_render'
+actionpack (7.2.2) lib/action_controller/metal/basic_implicit_render.rb:9:in `send_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:226:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rendering.rb:193:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:261:in `block in process_action'
+activesupport (7.2.2) lib/active_support/callbacks.rb:121:in `block in run_callbacks'
+turbo-rails (2.0.11) lib/turbo-rails.rb:24:in `with_request_id'
+turbo-rails (2.0.11) app/controllers/concerns/turbo/request_id_tracking.rb:10:in `turbo_tracking_request_id'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+actiontext (7.2.2) lib/action_text/rendering.rb:25:in `with_renderer'
+actiontext (7.2.2) lib/action_text/engine.rb:71:in `block (4 levels) in <class:Engine>'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `instance_exec'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+activesupport (7.2.2) lib/active_support/callbacks.rb:141:in `run_callbacks'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:260:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rescue.rb:27:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:77:in `block in process_action'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `block in instrument'
+activesupport (7.2.2) lib/active_support/notifications/instrumenter.rb:58:in `instrument'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `instrument'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:76:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.2.2) lib/active_record/railties/controller_runtime.rb:39:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:163:in `process'
+actionview (7.2.2) lib/action_view/rendering.rb:40:in `process'
+actionpack (7.2.2) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (7.2.2) lib/action_controller/metal.rb:335:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:67:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:50:in `serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:53:in `block in serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:133:in `block in find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `each'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:34:in `serve'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:896:in `call'
+rack (3.1.8) lib/rack/tempfile_reaper.rb:20:in `call'
+rack (3.1.8) lib/rack/etag.rb:29:in `call'
+rack (3.1.8) lib/rack/conditional_get.rb:31:in `call'
+rack (3.1.8) lib/rack/head.rb:15:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/content_security_policy.rb:35:in `call'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:272:in `context'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:266:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.2.2) lib/active_record/migration.rb:674:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:31:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:30:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in `call'
+railties (7.2.2) lib/rails/rack/logger.rb:41:in `call_app'
+railties (7.2.2) lib/rails/rack/logger.rb:29:in `call'
+sprockets-rails (3.5.2) lib/sprockets/rails/quiet_assets.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/remote_ip.rb:96:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/request_id.rb:33:in `call'
+rack (3.1.8) lib/rack/method_override.rb:28:in `call'
+rack (3.1.8) lib/rack/runtime.rb:24:in `call'
+activesupport (7.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/static.rb:27:in `call'
+rack (3.1.8) lib/rack/sendfile.rb:114:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/host_authorization.rb:143:in `call'
+railties (7.2.2) lib/rails/engine.rb:535:in `call'
+puma (6.4.3) lib/puma/configuration.rb:272:in `call'
+puma (6.4.3) lib/puma/request.rb:100:in `block in handle_request'
+puma (6.4.3) lib/puma/thread_pool.rb:378:in `with_force_shutdown'
+puma (6.4.3) lib/puma/request.rb:99:in `handle_request'
+puma (6.4.3) lib/puma/server.rb:464:in `process_client'
+puma (6.4.3) lib/puma/server.rb:245:in `block in run'
+puma (6.4.3) lib/puma/thread_pool.rb:155:in `block in spawn_thread'
+Started GET "/events/1/full" for 127.0.0.1 at 2024-11-06 13:58:15 -0500
+Processing by EventsController#full as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (163.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:16:in `full'
+  Rendering layout layouts/application.html.erb
+  Rendering events/full.html.erb within layouts/application
+  Rendered events/full.html.erb within layouts/application (Duration: 0.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 1317ms (ActiveRecord: 1304.1ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000513b0>):
+
+Causes:
+NameError (undefined local variable or method `event_full' for #<ActionView::Base:0x000000000513b0>)
+    1: <div id="<%= dom_id event_full %>">
+    2:   <p>
+    3:     <strong>Event name:</strong>
+    4:     <%= event.eventName %>
+  
+app/views/events/full.html.erb:1
+Started GET "/events/1/full" for 127.0.0.1 at 2024-11-06 13:58:50 -0500
+Processing by EventsController#full as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (167.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:16:in `full'
+  Rendering layout layouts/application.html.erb
+  Rendering events/full.html.erb within layouts/application
+  Rendered events/full.html.erb within layouts/application (Duration: 0.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 2060ms (ActiveRecord: 2047.4ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `event' for #<ActionView::Base:0x000000000552d0>):
+
+Causes:
+NameError (undefined local variable or method `event' for #<ActionView::Base:0x000000000552d0>)
+    1: 
+    2:   <p>
+    3:     <strong>Event name:</strong>
+    4:     <%= event.eventName %>
+    5:   </p>
+    6:   
+    7:   <p>
+  
+app/views/events/full.html.erb:4
+Started GET "/" for 127.0.0.1 at 2024-11-06 14:05:42 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (5962.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 5973.1ms | GC: 5.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 5985.1ms | GC: 7.4ms)
+Completed 200 OK in 5990ms (Views: -2633.4ms | ActiveRecord: 8619.6ms (1 query, 0 cached) | GC: 7.4ms)
+
+
+Started GET "/events/1/full" for 127.0.0.1 at 2024-11-06 14:05:53 -0500
+Processing by EventsController#full as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (313.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:16:in `full'
+Completed 406 Not Acceptable in 1314ms (ActiveRecord: 757.4ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionController::MissingExactTemplate (EventsController#full is missing a template for request formats: text/html):
+  
+actionpack (7.2.2) lib/action_controller/metal/implicit_render.rb:49:in `default_render'
+actionpack (7.2.2) lib/action_controller/metal/basic_implicit_render.rb:9:in `send_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:226:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rendering.rb:193:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:261:in `block in process_action'
+activesupport (7.2.2) lib/active_support/callbacks.rb:121:in `block in run_callbacks'
+turbo-rails (2.0.11) lib/turbo-rails.rb:24:in `with_request_id'
+turbo-rails (2.0.11) app/controllers/concerns/turbo/request_id_tracking.rb:10:in `turbo_tracking_request_id'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+actiontext (7.2.2) lib/action_text/rendering.rb:25:in `with_renderer'
+actiontext (7.2.2) lib/action_text/engine.rb:71:in `block (4 levels) in <class:Engine>'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `instance_exec'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+activesupport (7.2.2) lib/active_support/callbacks.rb:141:in `run_callbacks'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:260:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rescue.rb:27:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:77:in `block in process_action'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `block in instrument'
+activesupport (7.2.2) lib/active_support/notifications/instrumenter.rb:58:in `instrument'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `instrument'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:76:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.2.2) lib/active_record/railties/controller_runtime.rb:39:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:163:in `process'
+actionview (7.2.2) lib/action_view/rendering.rb:40:in `process'
+actionpack (7.2.2) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (7.2.2) lib/action_controller/metal.rb:335:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:67:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:50:in `serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:53:in `block in serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:133:in `block in find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `each'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:34:in `serve'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:896:in `call'
+rack (3.1.8) lib/rack/tempfile_reaper.rb:20:in `call'
+rack (3.1.8) lib/rack/etag.rb:29:in `call'
+rack (3.1.8) lib/rack/conditional_get.rb:31:in `call'
+rack (3.1.8) lib/rack/head.rb:15:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/content_security_policy.rb:35:in `call'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:272:in `context'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:266:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.2.2) lib/active_record/migration.rb:674:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:31:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:30:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in `call'
+railties (7.2.2) lib/rails/rack/logger.rb:41:in `call_app'
+railties (7.2.2) lib/rails/rack/logger.rb:29:in `call'
+sprockets-rails (3.5.2) lib/sprockets/rails/quiet_assets.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/remote_ip.rb:96:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/request_id.rb:33:in `call'
+rack (3.1.8) lib/rack/method_override.rb:28:in `call'
+rack (3.1.8) lib/rack/runtime.rb:24:in `call'
+activesupport (7.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/static.rb:27:in `call'
+rack (3.1.8) lib/rack/sendfile.rb:114:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/host_authorization.rb:143:in `call'
+railties (7.2.2) lib/rails/engine.rb:535:in `call'
+puma (6.4.3) lib/puma/configuration.rb:272:in `call'
+puma (6.4.3) lib/puma/request.rb:100:in `block in handle_request'
+puma (6.4.3) lib/puma/thread_pool.rb:378:in `with_force_shutdown'
+puma (6.4.3) lib/puma/request.rb:99:in `handle_request'
+puma (6.4.3) lib/puma/server.rb:464:in `process_client'
+puma (6.4.3) lib/puma/server.rb:245:in `block in run'
+puma (6.4.3) lib/puma/thread_pool.rb:155:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2024-11-06 14:06:16 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (234.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 2076.8ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 2086.2ms | GC: 0.9ms)
+Completed 200 OK in 2091ms (Views: 17.8ms | ActiveRecord: 2069.6ms (1 query, 0 cached) | GC: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-06 14:06:20 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (329.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 331.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 333.1ms | GC: 0.0ms)
+Completed 200 OK in 334ms (Views: 4.3ms | ActiveRecord: 329.3ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:06:22 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (409.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.5ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 5.1ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 7.1ms | GC: 0.1ms)
+Completed 200 OK in 743ms (Views: 7.6ms | ActiveRecord: 408.9ms (1 query, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:06:22 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+DEPRECATION WARNING: Passing nil to the :model argument is deprecated and will raise in Rails 8.0 (called from _app_views_events__form_html_erb__3635761280625817156_190900 at /home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:1)
+  Rendered events/_form.html.erb (Duration: 1.3ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `errors' for nil:NilClass)
+    1: <%= form_with(model: event) do |form| %>
+    2:     <% if event.errors.any? %>
+    3:         <div style="color: red">
+    4:         <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+    5: 
+  
+app/views/events/_form.html.erb:2
+app/views/events/_form.html.erb:1
+app/views/events/edit.html.erb:2
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:08:44 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+DEPRECATION WARNING: Passing nil to the :model argument is deprecated and will raise in Rails 8.0 (called from _app_views_events__form_html_erb__3635761280625817156_199000 at /home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:1)
+  Rendered events/_form.html.erb (Duration: 1.1ms | GC: 0.3ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.6ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.3ms)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `errors' for nil:NilClass)
+    1: <%= form_with(model: event) do |form| %>
+    2:     <% if event.errors.any? %>
+    3:         <div style="color: red">
+    4:         <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+    5: 
+  
+app/views/events/_form.html.erb:2
+app/views/events/_form.html.erb:1
+app/views/events/edit.html.erb:2
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:09:27 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+DEPRECATION WARNING: Passing nil to the :model argument is deprecated and will raise in Rails 8.0 (called from _app_views_events__form_html_erb__3635761280625817156_207000 at /home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:1)
+  Rendered events/_form.html.erb (Duration: 5.8ms | GC: 4.5ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 6.4ms | GC: 4.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | GC: 4.5ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 4.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `errors' for nil:NilClass)
+    1: <%= form_with(model: event) do |form| %>
+    2:     <% if event.errors.any? %>
+    3:         <div style="color: red">
+    4:         <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+    5: 
+  
+app/views/events/_form.html.erb:2
+app/views/events/_form.html.erb:1
+app/views/events/edit.html.erb:2
+Started GET "/" for 127.0.0.1 at 2024-11-06 14:19:06 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (7439.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 10203.8ms | GC: 0.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 10216.1ms | GC: 1.7ms)
+Completed 200 OK in 10220ms (Views: -3970.9ms | ActiveRecord: 14188.0ms (1 query, 0 cached) | GC: 2.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:19:19 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (620.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.0ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | GC: 0.2ms)
+Completed 200 OK in 1744ms (Views: 4.0ms | ActiveRecord: 912.6ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:19:21 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (298.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | GC: 0.0ms)
+Completed 200 OK in 801ms (Views: 4.6ms | ActiveRecord: 298.2ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:19:22 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (410.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.7ms | GC: 0.1ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.1ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | GC: 0.1ms)
+Completed 200 OK in 894ms (Views: 3.9ms | ActiveRecord: 410.5ms (1 query, 0 cached) | GC: 0.1ms)
+
+
+Started PATCH "/events/1" for 127.0.0.1 at 2024-11-06 14:19:28 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandroo", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `update' for nil:NilClass):
+  
+app/controllers/events_controller.rb:30:in `block in update'
+app/controllers/events_controller.rb:29:in `update'
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:19:58 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (311.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | GC: 0.0ms)
+Completed 200 OK in 541ms (Views: 3.4ms | ActiveRecord: 311.5ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:19:59 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (386.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | GC: 0.2ms)
+Completed 200 OK in 574ms (Views: 4.1ms | ActiveRecord: 386.5ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:20:18 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:20:19 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (159.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.8ms | GC: 0.2ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.3ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | GC: 0.2ms)
+Completed 200 OK in 357ms (Views: 4.2ms | ActiveRecord: 159.2ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+  [1m[36mEvent Load (164.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.1ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.3ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | GC: 0.1ms)
+Completed 200 OK in 7301ms (Views: 3.8ms | ActiveRecord: 2969.2ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:21:29 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+DEPRECATION WARNING: Passing nil to the :model argument is deprecated and will raise in Rails 8.0 (called from _app_views_events__form_html_erb__3635761280625817156_223520 at /home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:1)
+  Rendered events/_form.html.erb (Duration: 1.0ms | GC: 0.1ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.9ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | GC: 0.1ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+
+Causes:
+NoMethodError (undefined method `errors' for nil:NilClass)
+    1: <%= form_with(model: event) do |form| %>
+    2:     <% if event.errors.any? %>
+    3:         <div style="color: red">
+    4:         <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+    5: 
+  
+app/views/events/_form.html.erb:2
+app/views/events/_form.html.erb:1
+app/views/events/edit.html.erb:2
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:21:32 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (155.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 13.0ms | GC: 0.0ms)
+Completed 200 OK in 1278ms (Views: 13.4ms | ActiveRecord: 1257.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:22:59 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (168.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 12.6ms | GC: 1.3ms)
+Completed 200 OK in 1222ms (Views: 13.7ms | ActiveRecord: 1198.1ms (1 query, 0 cached) | GC: 1.9ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:23:01 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:23:02 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (1179.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.4ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 3.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | GC: 0.6ms)
+Completed 200 OK in 1611ms (Views: 8.1ms | ActiveRecord: 1179.0ms (1 query, 0 cached) | GC: 0.8ms)
+
+
+  [1m[36mEvent Load (218.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.8ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | GC: 0.0ms)
+Completed 200 OK in 1496ms (Views: 4.2ms | ActiveRecord: 218.8ms (1 query, 0 cached) | GC: 0.8ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:31:14 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (153.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.0ms | GC: 0.2ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 3.8ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | GC: 0.6ms)
+Completed 200 OK in 4238ms (Views: 18.9ms | ActiveRecord: 2162.9ms (1 query, 0 cached) | GC: 1.0ms)
+
+
+Started PATCH "/events/1" for 127.0.0.1 at 2024-11-06 14:31:50 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `update' for nil:NilClass):
+  
+app/controllers/events_controller.rb:30:in `block in update'
+app/controllers/events_controller.rb:29:in `update'
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:32:09 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (151.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.0ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | GC: 0.0ms)
+Completed 200 OK in 1269ms (Views: 11.0ms | ActiveRecord: 1250.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started PATCH "/events/1" for 127.0.0.1 at 2024-11-06 14:32:11 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"1"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `update' for nil:NilClass):
+  
+app/controllers/events_controller.rb:30:in `block in update'
+app/controllers/events_controller.rb:29:in `update'
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:36:27 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (153.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.7ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 11.0ms | GC: 0.0ms)
+Completed 200 OK in 1098ms (Views: 12.8ms | ActiveRecord: 1075.3ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:36:28 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (159.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 200 OK in 316ms (Views: 3.3ms | ActiveRecord: 159.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-06 14:36:31 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (368.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 370.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 372.2ms | GC: 0.0ms)
+Completed 200 OK in 374ms (Views: 4.1ms | ActiveRecord: 368.4ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:36:32 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (276.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | GC: 0.4ms)
+Completed 200 OK in 438ms (Views: 3.2ms | ActiveRecord: 276.6ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:36:32 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:36:33 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (151.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.9ms | GC: 0.4ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 3.9ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | GC: 0.4ms)
+Completed 200 OK in 348ms (Views: 5.8ms | ActiveRecord: 151.8ms (1 query, 0 cached) | GC: 0.8ms)
+
+
+  [1m[36mEvent Load (156.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.5ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | GC: 0.2ms)
+Completed 200 OK in 4194ms (Views: 3.5ms | ActiveRecord: 1818.2ms (1 query, 0 cached) | GC: 1.9ms)
+
+
+Started PATCH "/events/1" for 127.0.0.1 at 2024-11-06 14:36:39 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandro", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+NoMethodError (undefined method `update' for nil:NilClass):
+  
+app/controllers/events_controller.rb:30:in `block in update'
+app/controllers/events_controller.rb:29:in `update'
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:38:03 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (155.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.5ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 4.8ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 16.8ms | GC: 2.2ms)
+Completed 200 OK in 2212ms (Views: 17.8ms | ActiveRecord: 2184.5ms (1 query, 0 cached) | GC: 3.5ms)
+
+
+Started PATCH "/events/1" for 127.0.0.1 at 2024-11-06 14:38:07 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"leandro", "exhibitor"=>"advanced", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NoMethodError (undefined method `update' for nil:NilClass):
+  
+app/controllers/events_controller.rb:30:in `block in update'
+app/controllers/events_controller.rb:29:in `update'
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:39:52 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (300.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | GC: 0.0ms)
+Completed 200 OK in 570ms (Views: 7.2ms | ActiveRecord: 300.6ms (1 query, 0 cached) | GC: 2.6ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:39:53 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (195.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:7:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.5ms)
+Completed 200 OK in 485ms (Views: 3.3ms | ActiveRecord: 195.1ms (1 query, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 14:39:54 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (230.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 233.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 236.0ms | GC: 0.4ms)
+Completed 200 OK in 237ms (Views: 5.4ms | ActiveRecord: 230.8ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:39:55 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (208.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.6ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.3ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | GC: 0.3ms)
+Completed 200 OK in 441ms (Views: 4.1ms | ActiveRecord: 208.1ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:42:55 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (312.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:11:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.3ms | GC: 0.2ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 6.7ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 19.0ms | GC: 1.0ms)
+Completed 200 OK in 2333ms (Views: 20.6ms | ActiveRecord: 2303.7ms (1 query, 0 cached) | GC: 1.5ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:43:39 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+Completed 404 Not Found in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+AbstractController::ActionNotFound (The destroy action could not be found for the :set_event
+callback on EventsController, but it is listed in the controller's
+:only option.
+
+Raising for missing callback actions is a new default in Rails 7.1, if you'd
+like to turn this off you can delete the option from the environment configurations
+or set `config.action_controller.raise_on_missing_callback_actions` to `false`.
+):
+  
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:62:in `match?'
+activesupport (7.2.2) lib/active_support/callbacks.rb:385:in `block in make_lambda'
+activesupport (7.2.2) lib/active_support/callbacks.rb:178:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:178:in `all?'
+activesupport (7.2.2) lib/active_support/callbacks.rb:178:in `call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:559:in `block in invoke_before'
+activesupport (7.2.2) lib/active_support/callbacks.rb:559:in `each'
+activesupport (7.2.2) lib/active_support/callbacks.rb:559:in `invoke_before'
+activesupport (7.2.2) lib/active_support/callbacks.rb:119:in `block in run_callbacks'
+turbo-rails (2.0.11) lib/turbo-rails.rb:24:in `with_request_id'
+turbo-rails (2.0.11) app/controllers/concerns/turbo/request_id_tracking.rb:10:in `turbo_tracking_request_id'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+actiontext (7.2.2) lib/action_text/rendering.rb:25:in `with_renderer'
+actiontext (7.2.2) lib/action_text/engine.rb:71:in `block (4 levels) in <class:Engine>'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `instance_exec'
+activesupport (7.2.2) lib/active_support/callbacks.rb:130:in `block in run_callbacks'
+activesupport (7.2.2) lib/active_support/callbacks.rb:141:in `run_callbacks'
+actionpack (7.2.2) lib/abstract_controller/callbacks.rb:260:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/rescue.rb:27:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:77:in `block in process_action'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `block in instrument'
+activesupport (7.2.2) lib/active_support/notifications/instrumenter.rb:58:in `instrument'
+activesupport (7.2.2) lib/active_support/notifications.rb:210:in `instrument'
+actionpack (7.2.2) lib/action_controller/metal/instrumentation.rb:76:in `process_action'
+actionpack (7.2.2) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.2.2) lib/active_record/railties/controller_runtime.rb:39:in `process_action'
+actionpack (7.2.2) lib/abstract_controller/base.rb:163:in `process'
+actionview (7.2.2) lib/action_view/rendering.rb:40:in `process'
+actionpack (7.2.2) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (7.2.2) lib/action_controller/metal.rb:335:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:67:in `dispatch'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:50:in `serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:53:in `block in serve'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:133:in `block in find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `each'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:126:in `find_routes'
+actionpack (7.2.2) lib/action_dispatch/journey/router.rb:34:in `serve'
+actionpack (7.2.2) lib/action_dispatch/routing/route_set.rb:896:in `call'
+rack (3.1.8) lib/rack/tempfile_reaper.rb:20:in `call'
+rack (3.1.8) lib/rack/etag.rb:29:in `call'
+rack (3.1.8) lib/rack/conditional_get.rb:31:in `call'
+rack (3.1.8) lib/rack/head.rb:15:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.2.2) lib/action_dispatch/http/content_security_policy.rb:35:in `call'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:272:in `context'
+rack-session (2.0.0) lib/rack/session/abstract/id.rb:266:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/cookies.rb:704:in `call'
+activerecord (7.2.2) lib/active_record/migration.rb:674:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:31:in `block in call'
+activesupport (7.2.2) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (7.2.2) lib/action_dispatch/middleware/callbacks.rb:30:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in `call'
+web-console (4.2.1) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.1) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in `call'
+railties (7.2.2) lib/rails/rack/logger.rb:41:in `call_app'
+railties (7.2.2) lib/rails/rack/logger.rb:29:in `call'
+sprockets-rails (3.5.2) lib/sprockets/rails/quiet_assets.rb:17:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/remote_ip.rb:96:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/request_id.rb:33:in `call'
+rack (3.1.8) lib/rack/method_override.rb:28:in `call'
+rack (3.1.8) lib/rack/runtime.rb:24:in `call'
+activesupport (7.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.2.2) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/executor.rb:16:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/static.rb:27:in `call'
+rack (3.1.8) lib/rack/sendfile.rb:114:in `call'
+actionpack (7.2.2) lib/action_dispatch/middleware/host_authorization.rb:143:in `call'
+railties (7.2.2) lib/rails/engine.rb:535:in `call'
+puma (6.4.3) lib/puma/configuration.rb:272:in `call'
+puma (6.4.3) lib/puma/request.rb:100:in `block in handle_request'
+puma (6.4.3) lib/puma/thread_pool.rb:378:in `with_force_shutdown'
+puma (6.4.3) lib/puma/request.rb:99:in `handle_request'
+puma (6.4.3) lib/puma/server.rb:464:in `process_client'
+puma (6.4.3) lib/puma/server.rb:245:in `block in run'
+puma (6.4.3) lib/puma/thread_pool.rb:155:in `block in spawn_thread'
+Started GET "/events/1" for 127.0.0.1 at 2024-11-06 14:44:42 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (233.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mCACHE Event Load (0.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:9:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | GC: 1.0ms)
+Completed 200 OK in 1985ms (Views: 13.4ms | ActiveRecord: 1962.4ms (2 queries, 1 cached) | GC: 1.6ms)
+
+
+Started GET "/events/1/edit" for 127.0.0.1 at 2024-11-06 14:44:45 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (155.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mCACHE Event Load (0.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:13:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.6ms | GC: 0.2ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 5.4ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | GC: 0.2ms)
+Completed 200 OK in 564ms (Views: 6.9ms | ActiveRecord: 155.2ms (2 queries, 1 cached) | GC: 0.2ms)
+
+
+Started DELETE "/events/1" for 127.0.0.1 at 2024-11-06 14:44:46 -0500
+Processing by EventsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"1"}
+  [1m[36mEvent Load (158.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mTRANSACTION (154.9ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:43:in `destroy'
+  [1m[36mEvent Destroy (320.9ms)[0m  [1m[31mDELETE FROM "event_infos" WHERE "event_infos"."id" = $1[0m  [["id", 1]]
+  ↳ app/controllers/events_controller.rb:43:in `destroy'
+  [1m[36mTRANSACTION (163.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:43:in `destroy'
+Redirected to http://127.0.0.1:3000/events
+Completed 302 Found in 803ms (ActiveRecord: 797.3ms (2 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-06 14:44:47 -0500
+Processing by EventsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (169.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 171.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 173.4ms | GC: 0.0ms)
+Completed 200 OK in 175ms (Views: 4.2ms | ActiveRecord: 169.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2024-11-06 14:44:48 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (311.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mCACHE Event Load (0.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:9:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.1ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | GC: 0.2ms)
+Completed 200 OK in 495ms (Views: 2.6ms | ActiveRecord: 311.2ms (2 queries, 1 cached) | GC: 0.2ms)
+
+
+Started GET "/events/2/edit" for 127.0.0.1 at 2024-11-06 14:44:49 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (164.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mCACHE Event Load (0.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:13:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.5ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 200 OK in 357ms (Views: 3.3ms | ActiveRecord: 164.7ms (2 queries, 1 cached) | GC: 0.1ms)
+
+
+Started PATCH "/events/2" for 127.0.0.1 at 2024-11-06 14:44:56 -0500
+Processing by EventsController#update as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"scissors", "exhibitor"=>"leandroo", "level"=>"advanced", "descripcion"=>"dfdfdfdf", "date"=>"2024-11-07"}, "commit"=>"Update Event", "id"=>"2"}
+  [1m[36mEvent Load (154.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mTRANSACTION (158.8ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:32:in `block in update'
+  [1m[36mEvent Update (316.7ms)[0m  [1m[33mUPDATE "event_infos" SET "exhibitor" = $1, "updated_at" = $2 WHERE "event_infos"."id" = $3[0m  [["exhibitor", "leandroo"], ["updated_at", "2024-11-06 19:44:56.494937"], ["id", 2]]
+  ↳ app/controllers/events_controller.rb:32:in `block in update'
+  [1m[36mTRANSACTION (156.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:32:in `block in update'
+Redirected to http://127.0.0.1:3000/events/2
+Completed 302 Found in 791ms (ActiveRecord: 786.3ms (2 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2024-11-06 14:44:56 -0500
+Processing by EventsController#show as TURBO_STREAM
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (155.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:54:in `set_event'
+  [1m[36mCACHE Event Load (0.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:9:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.1ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.7ms | GC: 0.1ms)
+Completed 200 OK in 316ms (Views: 3.1ms | ActiveRecord: 155.2ms (2 queries, 1 cached) | GC: 0.1ms)
+
+
+Started GET "/events/2/edit" for 127.0.0.1 at 2024-11-06 14:51:13 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"2"}
+Started GET "/events/2/edit" for 127.0.0.1 at 2024-11-06 14:51:13 -0500
+  [1m[36mEvent Load (308.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.0ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 2.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 16.7ms | GC: 4.6ms)
+Completed 200 OK in 9313ms (Views: 17.7ms | ActiveRecord: 4463.5ms (1 query, 0 cached) | GC: 4.7ms)
+
+
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (500.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.0ms | GC: 0.3ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 3.7ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 13.1ms | GC: 1.1ms)
+Completed 200 OK in 2608ms (Views: 14.4ms | ActiveRecord: 2584.7ms (1 query, 0 cached) | GC: 1.7ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2024-11-06 14:55:38 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"2"}
+Started GET "/events" for 127.0.0.1 at 2024-11-06 14:55:40 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (348.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.9ms | GC: 0.2ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 2.5ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | GC: 0.2ms)
+Completed 200 OK in 2104ms (Views: 4.1ms | ActiveRecord: 348.8ms (1 query, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2024-11-06 14:55:40 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (511.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.2ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.7ms | GC: 0.0ms)
+Completed 200 OK in 799ms (Views: 3.1ms | ActiveRecord: 511.2ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events/2/edit" for 127.0.0.1 at 2024-11-06 14:55:43 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"2"}
+Started GET "/events" for 127.0.0.1 at 2024-11-06 14:55:44 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (404.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.6ms | GC: 0.1ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.9ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | GC: 0.1ms)
+Completed 200 OK in 980ms (Views: 4.7ms | ActiveRecord: 404.5ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+  [1m[36mEvent Load (4502.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 4505.1ms | GC: 1.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4506.9ms | GC: 1.0ms)
+Completed 200 OK in 4508ms (Views: -2020.0ms | ActiveRecord: 6527.3ms (1 query, 0 cached) | GC: 1.0ms)
+
+
+  [1m[36mEvent Load (6105.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 6107.6ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 6109.3ms | GC: 0.5ms)
+Completed 200 OK in 6110ms (Views: -2420.3ms | ActiveRecord: 8529.9ms (1 query, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/events/3" for 127.0.0.1 at 2024-11-06 14:55:53 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (1021.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | GC: 0.0ms)
+Completed 200 OK in 2839ms (Views: 3.6ms | ActiveRecord: 1233.5ms (1 query, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/events/3/edit" for 127.0.0.1 at 2024-11-06 14:55:56 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (1838.2ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:52:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.4ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 1.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 200 OK in 3477ms (Views: 3.2ms | ActiveRecord: 1838.2ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (292.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (394.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+[dotenv] Set [36mDB_NAME[0m, [36mDB_PORT[0m, [36mDB_HOST[0m, [36mDB_USERNAME[0m, [36mDB_PASSWORD[0m, [36mDATABASE_URL[0m, [36mSECRET_KEY_BASE[0m, and [36mAPI_KEY[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/" for 127.0.0.1 at 2024-11-08 06:43:20 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (407.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (5338.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 7498.9ms | GC: 1.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 7549.4ms | GC: 2.9ms)
+Completed 200 OK in 7589ms (Views: -2290.6ms | ActiveRecord: 9842.4ms (1 query, 0 cached) | GC: 19.9ms)
+
+
+Started GET "/events/3" for 127.0.0.1 at 2024-11-08 06:43:56 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (297.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:61:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 7.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 9.6ms | GC: 0.0ms)
+Completed 200 OK in 1397ms (Views: 10.2ms | ActiveRecord: 611.8ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/3/edit" for 127.0.0.1 at 2024-11-08 06:43:58 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (209.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:61:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/edit.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 4.5ms | GC: 0.0ms)
+  Rendered events/edit.html.erb within layouts/application (Duration: 5.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | GC: 0.0ms)
+Completed 200 OK in 483ms (Views: 7.0ms | ActiveRecord: 209.7ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-08 06:46:21 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (556.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 2483.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2492.0ms | GC: 0.0ms)
+Completed 200 OK in 2495ms (Views: 15.0ms | ActiveRecord: 2478.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-08 06:46:37 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (430.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+  Rendered events/index.html.erb within layouts/application (Duration: 2280.4ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 2289.0ms | GC: 0.8ms)
+Completed 200 OK in 2292ms (Views: 16.3ms | ActiveRecord: 2274.2ms (1 query, 0 cached) | GC: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-08 06:48:35 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (1437.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:6
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 06:48:37 -0500
+  Rendered events/index.html.erb within layouts/application (Duration: 5131.2ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 5140.1ms | GC: 0.7ms)
+Completed 200 OK in 5143ms (Views: 17.2ms | ActiveRecord: 5123.8ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 06:48:40 -0500
+Processing by EventsController#new as HTML
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.0ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | GC: 0.0ms)
+Completed 200 OK in 4983ms (Views: 11.0ms | ActiveRecord: 4965.8ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.3ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 1.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | GC: 3.3ms)
+Completed 200 OK in 8957ms (Views: 6.8ms | ActiveRecord: 2450.9ms (0 queries, 0 cached) | GC: 3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-08 06:58:21 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+Started GET "/events/3" for 127.0.0.1 at 2024-11-08 06:58:24 -0500
+  [1m[36mEvent Load (6421.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 6426.8ms | GC: 0.7ms)
+  Rendered layout layouts/application.html.erb (Duration: 6436.4ms | GC: 1.5ms)
+Completed 200 OK in 6440ms (Views: -2742.8ms | ActiveRecord: 9180.4ms (1 query, 0 cached) | GC: 1.9ms)
+
+
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (410.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:65:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | GC: 0.2ms)
+Completed 200 OK in 4678ms (Views: 10.3ms | ActiveRecord: 4046.7ms (1 query, 0 cached) | GC: 0.9ms)
+
+
+Started GET "/events?level=basico&commit=Filtrar" for 127.0.0.1 at 2024-11-08 06:58:32 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"basico", "commit"=>"Filtrar"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `param' for #<EventsController:0x00000000020cb0>):
+  
+app/controllers/events_controller.rb:6:in `index'
+Started GET "/events/3" for 127.0.0.1 at 2024-11-08 07:07:32 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+Started GET "/events/3" for 127.0.0.1 at 2024-11-08 07:07:33 -0500
+  [1m[36mEvent Load (312.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:65:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.4ms | GC: 0.1ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.7ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | GC: 1.2ms)
+Completed 200 OK in 6608ms (Views: 10.9ms | ActiveRecord: 3066.7ms (1 query, 0 cached) | GC: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2024-11-08 07:07:39 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (408.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:65:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.3ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | GC: 0.0ms)
+Completed 200 OK in 2834ms (Views: 9.3ms | ActiveRecord: 2813.9ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+  [1m[36mEvent Load (6100.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 6103.3ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 6104.8ms | GC: 0.1ms)
+Completed 200 OK in 6107ms (Views: -2642.6ms | ActiveRecord: 8748.6ms (1 query, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/events?level=intermedio&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:07:48 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"intermedio", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (195.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "intermedio"]]
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 1175.4ms | GC: 3.7ms)
+  Rendered layout layouts/application.html.erb (Duration: 1176.8ms | GC: 3.7ms)
+Completed 200 OK in 1178ms (Views: 416.2ms | ActiveRecord: 760.8ms (1 query, 0 cached) | GC: 3.7ms)
+
+
+Started GET "/events?level=basico&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:07:52 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"basico", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (274.7ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "basico"]]
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 275.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 277.3ms | GC: 0.0ms)
+Completed 200 OK in 278ms (Views: 2.9ms | ActiveRecord: 274.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events?level=avanzado&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:07:55 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"avanzado", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (422.8ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "avanzado"]]
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 424.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 426.0ms | GC: 0.3ms)
+Completed 200 OK in 427ms (Views: 3.5ms | ActiveRecord: 422.7ms (1 query, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:07:58 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.1ms | GC: 0.3ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.9ms | GC: 0.3ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | GC: 0.3ms)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-08 07:08:14 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"cortes", "exhibitor"=>"andre", "level"=>"Basico", "descripcion"=>"fdf", "date"=>"2024-11-29"}, "commit"=>"Create Event"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+  
+NameError (undefined local variable or method `event_params' for #<EventsController:0x00000000028730>):
+  
+app/controllers/events_controller.rb:24:in `create'
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:08:40 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.0ms | GC: 0.1ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.5ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | GC: 0.8ms)
+Completed 200 OK in 2217ms (Views: 11.8ms | ActiveRecord: 2198.4ms (0 queries, 0 cached) | GC: 1.2ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-08 07:09:02 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"df", "exhibitor"=>"df", "level"=>"Basico", "descripcion"=>"dfdf", "date"=>"2024-11-26"}, "commit"=>"Create Event"}
+  [1m[36mTRANSACTION (396.4ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+  [1m[36mEvent Create (608.9ms)[0m  [1m[32mINSERT INTO "event_infos" ("eventName", "level", "descripcion", "exhibitor", "date", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["eventName", "df"], ["level", "Basico"], ["descripcion", "dfdf"], ["exhibitor", "df"], ["date", "2024-11-26 00:00:00"], ["created_at", "2024-11-08 12:09:02.160522"], ["updated_at", "2024-11-08 12:09:02.160522"]]
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (303.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+Redirected to http://127.0.0.1:3000/events/4
+Completed 302 Found in 918ms (ActiveRecord: 1308.3ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/events/4" for 127.0.0.1 at 2024-11-08 07:09:03 -0500
+Processing by EventsController#show as TURBO_STREAM
+  Parameters: {"id"=>"4"}
+  [1m[36mEvent Load (216.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:65:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.6ms | GC: 0.2ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.9ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | GC: 0.2ms)
+Completed 200 OK in 1231ms (Views: 3.6ms | ActiveRecord: 216.3ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:09:07 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (431.0ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 433.1ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 434.5ms | GC: 0.2ms)
+Completed 200 OK in 435ms (Views: 3.8ms | ActiveRecord: 430.9ms (1 query, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:09:07 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (275.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 276.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 278.3ms | GC: 0.0ms)
+Completed 200 OK in 279ms (Views: 3.2ms | ActiveRecord: 275.4ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events?level=basico&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:09:13 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"basico", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (459.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "basico"]]
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 461.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 463.3ms | GC: 0.0ms)
+Completed 200 OK in 464ms (Views: 4.0ms | ActiveRecord: 459.6ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:09:34 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.3ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 1.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | GC: 0.1ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-08 07:09:41 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"sd", "exhibitor"=>"ds", "level"=>"basico", "descripcion"=>"sd", "date"=>"2024-11-12"}, "commit"=>"Create Event"}
+  [1m[36mTRANSACTION (446.5ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+  [1m[36mEvent Create (751.8ms)[0m  [1m[32mINSERT INTO "event_infos" ("eventName", "level", "descripcion", "exhibitor", "date", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["eventName", "sd"], ["level", "basico"], ["descripcion", "sd"], ["exhibitor", "ds"], ["date", "2024-11-12 00:00:00"], ["created_at", "2024-11-08 12:09:41.617763"], ["updated_at", "2024-11-08 12:09:41.617763"]]
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (310.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/events_controller.rb:27:in `block in create'
+Redirected to http://127.0.0.1:3000/events/5
+Completed 302 Found in 1066ms (ActiveRecord: 1508.6ms (1 query, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/events/5" for 127.0.0.1 at 2024-11-08 07:09:42 -0500
+Processing by EventsController#show as TURBO_STREAM
+  Parameters: {"id"=>"5"}
+  [1m[36mEvent Load (197.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."id" = $1 LIMIT $2[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/events_controller.rb:65:in `set_event'
+  Rendering layout layouts/application.html.erb
+  Rendering events/show.html.erb within layouts/application
+  Rendered events/_event.html.erb (Duration: 0.1ms | GC: 0.0ms)
+  Rendered events/show.html.erb within layouts/application (Duration: 1.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | GC: 0.0ms)
+Completed 200 OK in 607ms (Views: 3.5ms | ActiveRecord: 197.8ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:09:44 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (199.4ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 200.9ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 202.9ms | GC: 0.4ms)
+Completed 200 OK in 204ms (Views: 3.8ms | ActiveRecord: 199.4ms (1 query, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:09:45 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (214.1ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 216.0ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 217.5ms | GC: 0.0ms)
+Completed 200 OK in 218ms (Views: 3.8ms | ActiveRecord: 214.0ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events?level=basico&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:09:48 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"basico", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (424.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "basico"]]
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 426.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 427.7ms | GC: 0.0ms)
+Completed 200 OK in 429ms (Views: 3.7ms | ActiveRecord: 424.3ms (1 query, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events?level=basico&commit=Filtrar" for 127.0.0.1 at 2024-11-08 07:12:46 -0500
+Processing by EventsController#index as HTML
+  Parameters: {"level"=>"basico", "commit"=>"Filtrar"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (304.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos" WHERE "event_infos"."level" = $1[0m  [["level", "basico"]]
+  ↳ app/views/events/index.html.erb:13
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:12:47 -0500
+  Rendered events/index.html.erb within layouts/application (Duration: 1522.5ms | GC: 0.9ms)
+  Rendered layout layouts/application.html.erb (Duration: 1532.0ms | GC: 1.3ms)
+Completed 200 OK in 2061ms (Views: 17.3ms | ActiveRecord: 2038.7ms (1 query, 0 cached) | GC: 1.8ms)
+
+
+Processing by EventsController#new as HTML
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:12:50 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 0.6ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 1815ms (ActiveRecord: 1804.7ms (0 queries, 0 cached) | GC: 1.2ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_with(model: @event) do |form| %>
+    
+    <% if event.errors.any? %>
+        <div style="color: red">
+        <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+
+        <ul>
+            <% event.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+            <% end %>
+        </ul>
+        </div>
+    <% end %>
+
+    <div>
+         <%= form.label :"Event name"  %>
+         <%= form.text_field :eventName %>
+    </div>
+
+    <div>
+         <%= form.label :exhibitor  %>
+         <%= form.text_field :exhibitor %>
+    </div>    
+
+
+    <div>
+         <%= form.label :level(basic, middle, advanced)  %>
+         <%= form.text_field :level %>
+    </div>
+
+    <div>
+         <%= form.label :descripcion  %>
+         <%= form.text_area :descripcion %>
+    </div>    
+
+
+    <div>
+        <%= form.label :date %>
+        <%= form.date_field :date %>
+    </div>
+
+    <div>
+        <%= form.submit %>
+    </div>
+
+<% end %>
+):
+
+Causes:
+ActiveSupport::SyntaxErrorProxy (/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:27: syntax error, unexpected '(', expecting ')'
+...fer.append=( form.label :level(basic, middle, advanced)  ); ...
+...                              ^
+/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:48: syntax error, unexpected `end'
+          end
+          ^~~
+)
+1:    <%= form_with(model: @event) do |form| %>
+2:        
+3:        <% if event.errors.any? %>
+4:            <div style="color: red">
+5:            <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+6:    
+7:            <ul>
+8:                <% event.errors.each do |error| %>
+9:                <li><%= error.full_message %></li>
+10:                <% end %>
+11:            </ul>
+12:            </div>
+13:        <% end %>
+14:    
+15:        <div>
+16:             <%= form.label :"Event name"  %>
+17:             <%= form.text_field :eventName %>
+18:        </div>
+19:    
+20:        <div>
+21:             <%= form.label :exhibitor  %>
+22:             <%= form.text_field :exhibitor %>
+23:        </div>    
+24:    
+25:    
+26:        <div>
+27:             <%= form.label :level(basic, middle, advanced)  %>
+28:             <%= form.text_field :level %>
+29:        </div>
+30:    
+31:        <div>
+32:             <%= form.label :descripcion  %>
+33:             <%= form.text_area :descripcion %>
+34:        </div>    
+35:    
+36:    
+37:        <div>
+38:            <%= form.label :date %>
+39:            <%= form.date_field :date %>
+40:        </div>
+41:    
+42:        <div>
+43:            <%= form.submit %>
+44:        </div>
+45:    
+46:    <% end %>
+  
+app/views/events/_form.html.erb:27: syntax error, unexpected '(', expecting ')'
+app/views/events/_form.html.erb:48: syntax error, unexpected `end'
+app/views/events/new.html.erb:2
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.5ms | GC: 0.4ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 4.2ms | GC: 0.8ms)
+  Rendered layout layouts/application.html.erb (Duration: 86.6ms | GC: 12.9ms)
+Completed 500 Internal Server Error in 757ms (ActiveRecord: 667.9ms (0 queries, 0 cached) | GC: 73.3ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_with(model: @event) do |form| %>
+    
+    <% if event.errors.any? %>
+        <div style="color: red">
+        <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+
+        <ul>
+            <% event.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+            <% end %>
+        </ul>
+        </div>
+    <% end %>
+
+    <div>
+         <%= form.label :"Event name"  %>
+         <%= form.text_field :eventName %>
+    </div>
+
+    <div>
+         <%= form.label :exhibitor  %>
+         <%= form.text_field :exhibitor %>
+    </div>    
+
+
+    <div>
+         <%= form.label :level(basic, middle, advanced)  %>
+         <%= form.text_field :level %>
+    </div>
+
+    <div>
+         <%= form.label :descripcion  %>
+         <%= form.text_area :descripcion %>
+    </div>    
+
+
+    <div>
+        <%= form.label :date %>
+        <%= form.date_field :date %>
+    </div>
+
+    <div>
+        <%= form.submit %>
+    </div>
+
+<% end %>
+):
+
+Causes:
+ActiveSupport::SyntaxErrorProxy (/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:27: syntax error, unexpected '(', expecting ')'
+...fer.append=( form.label :level(basic, middle, advanced)  ); ...
+...                              ^
+/home/andrea/Desktop/ruby/event/app/views/events/_form.html.erb:48: syntax error, unexpected `end'
+          end
+          ^~~
+)
+1:    <%= form_with(model: @event) do |form| %>
+2:        
+3:        <% if event.errors.any? %>
+4:            <div style="color: red">
+5:            <h2><%= pluralize(event.errors.count, "error") %> prohibited this event from being saved:</h2>
+6:    
+7:            <ul>
+8:                <% event.errors.each do |error| %>
+9:                <li><%= error.full_message %></li>
+10:                <% end %>
+11:            </ul>
+12:            </div>
+13:        <% end %>
+14:    
+15:        <div>
+16:             <%= form.label :"Event name"  %>
+17:             <%= form.text_field :eventName %>
+18:        </div>
+19:    
+20:        <div>
+21:             <%= form.label :exhibitor  %>
+22:             <%= form.text_field :exhibitor %>
+23:        </div>    
+24:    
+25:    
+26:        <div>
+27:             <%= form.label :level(basic, middle, advanced)  %>
+28:             <%= form.text_field :level %>
+29:        </div>
+30:    
+31:        <div>
+32:             <%= form.label :descripcion  %>
+33:             <%= form.text_area :descripcion %>
+34:        </div>    
+35:    
+36:    
+37:        <div>
+38:            <%= form.label :date %>
+39:            <%= form.date_field :date %>
+40:        </div>
+41:    
+42:        <div>
+43:            <%= form.submit %>
+44:        </div>
+45:    
+46:    <% end %>
+  
+app/views/events/_form.html.erb:27: syntax error, unexpected '(', expecting ')'
+app/views/events/_form.html.erb:48: syntax error, unexpected `end'
+app/views/events/new.html.erb:2
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:13:03 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 1.9ms | GC: 0.0ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | GC: 0.1ms)
+Completed 200 OK in 1874ms (Views: 11.5ms | ActiveRecord: 1854.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:13:31 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (510.9ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  Rendered events/index.html.erb within layouts/application (Duration: 2816.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2831.8ms | GC: 4.8ms)
+Completed 200 OK in 2835ms (Views: 23.5ms | ActiveRecord: 2809.4ms (1 query, 0 cached) | GC: 4.8ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:20:41 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (815.6ms)[0m  [1m[34mSELECT DISTINCT "event_infos"."exhibitor" FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  [1m[36mEvent Load (517.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:19
+  Rendered events/index.html.erb within layouts/application (Duration: 7469.4ms | GC: 0.5ms)
+  Rendered layout layouts/application.html.erb (Duration: 7477.6ms | GC: 1.3ms)
+Completed 200 OK in 7481ms (Views: 3587.2ms | ActiveRecord: 3891.4ms (2 queries, 0 cached) | GC: 1.4ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:23:27 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.1ms | GC: 0.1ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 3.0ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | GC: 0.1ms)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-08 07:23:28 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"", "exhibitor"=>"", "level"=>"", "descripcion"=>"", "date"=>""}, "commit"=>"Create Event"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 3.3ms | GC: 0.2ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 3.6ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | GC: 0.2ms)
+Completed 422 Unprocessable Content in 7ms (Views: 5.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:23:34 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (281.6ms)[0m  [1m[34mSELECT DISTINCT "event_infos"."exhibitor" FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  [1m[36mEvent Load (390.6ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:19
+  Rendered events/index.html.erb within layouts/application (Duration: 675.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 677.6ms | GC: 0.0ms)
+Completed 200 OK in 678ms (Views: 5.8ms | ActiveRecord: 672.0ms (2 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:25:43 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:25:44 -0500
+  [1m[36mEvent Load (305.4ms)[0m  [1m[34mSELECT DISTINCT "event_infos"."exhibitor" FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  [1m[36mEvent Load (201.3ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:19
+  Rendered events/index.html.erb within layouts/application (Duration: 2773.6ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 2783.5ms | GC: 1.3ms)
+Completed 200 OK in 2787ms (Views: 19.9ms | ActiveRecord: 2764.7ms (2 queries, 0 cached) | GC: 1.5ms)
+
+
+Processing by EventsController#new as HTML
+Started GET "/events/new" for 127.0.0.1 at 2024-11-08 07:25:48 -0500
+Processing by EventsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.1ms | GC: 0.1ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 2.8ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 11.9ms | GC: 0.1ms)
+Completed 200 OK in 1840ms (Views: 12.8ms | ActiveRecord: 1820.6ms (0 queries, 0 cached) | GC: 0.9ms)
+
+
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 5.1ms | GC: 3.4ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 5.5ms | GC: 3.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 7.2ms | GC: 3.4ms)
+Completed 200 OK in 6568ms (Views: 7.7ms | ActiveRecord: 3094.5ms (0 queries, 0 cached) | GC: 4.0ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2024-11-08 07:26:01 -0500
+Processing by EventsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "event"=>{"eventName"=>"cortesc", "exhibitor"=>"c", "level"=>"c", "descripcion"=>"c", "date"=>"2024-11-19"}, "commit"=>"Create Event"}
+  Rendering layout layouts/application.html.erb
+  Rendering events/new.html.erb within layouts/application
+  Rendered events/_form.html.erb (Duration: 2.6ms | GC: 0.4ms)
+  Rendered events/new.html.erb within layouts/application (Duration: 3.0ms | GC: 0.4ms)
+  Rendered layout layouts/application.html.erb (Duration: 12.8ms | GC: 0.4ms)
+Completed 422 Unprocessable Content in 15ms (Views: 13.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2024-11-08 07:28:29 -0500
+Processing by EventsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering events/index.html.erb within layouts/application
+  [1m[36mEvent Load (309.9ms)[0m  [1m[34mSELECT DISTINCT "event_infos"."exhibitor" FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:13
+  [1m[36mEvent Load (304.5ms)[0m  [1m[34mSELECT "event_infos".* FROM "event_infos"[0m
+  ↳ app/views/events/index.html.erb:19
+  Rendered events/index.html.erb within layouts/application (Duration: 2899.0ms | GC: 0.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 2908.7ms | GC: 1.3ms)
+Completed 200 OK in 2913ms (Views: 19.0ms | ActiveRecord: 2890.6ms (2 queries, 0 cached) | GC: 1.5ms)
+
+

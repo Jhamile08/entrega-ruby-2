@@ -1,0 +1,26 @@
+<%= link_to "New event", new_event_path %>
+
+<h1>Events</h1>
+
+<%= form_with url: events_path, method: :get, local: true do %>
+  <div>
+    <label for="level">Filter by level:</label>
+    <%= select_tag :level, options_for_select([["Basic", "basic"], ["Middle", "middle"], ["Advanced", "advanced"]]), include_blank: true %>
+  </div>
+
+  <div>
+    <label for="exhibitor">Filter by exhibitor:</label>
+    <%= select_tag :exhibitor, options_from_collection_for_select(Event.select(:exhibitor).distinct, :exhibitor, :exhibitor), include_blank: true %>
+  <div>  
+    
+    <%= submit_tag "Filtrar" %>
+<% end %>
+
+  <% @events.each do |event| %>
+    <h2><%= event.eventName %></h2>
+    <h5><%= event.exhibitor %></h5>
+    <p><%= truncate(event.descripcion, length: 100) %>...</p> 
+    <p>
+      <%= link_to "Show this event", event_path(event) %>
+    </p>
+  <% end %>
