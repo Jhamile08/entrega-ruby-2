@@ -1,26 +1,31 @@
-<%= link_to "New event", new_event_path %>
-
-<h1>Events</h1>
-
-<%= form_with url: events_path, method: :get, local: true do %>
-  <div>
-    <label for="level">Filter by level:</label>
-    <%= select_tag :level, options_for_select([["Basic", "basic"], ["Middle", "middle"], ["Advanced", "advanced"]]), include_blank: true %>
+<%= link_to "Create a new event", new_event_path, class: "btn btn-primary" %>
+<%= form_with url: events_path, method: :get, local: true, class: "bg-white p-6 rounded-lg shadow-md space-y-4 flex" do %>
+  <div class="mb-4" style="margin: 15px 10px 0 10px;">
+    <label for="level" class="block text-gray-700 font-semibold">Filter by level:</label>
+    <%= select_tag :level, options_for_select([["Basic", "basic"], ["Middle", "middle"], ["Advanced", "advanced"]]), include_blank: true, class: "mt-1 block w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:border-blue-300" %>
   </div>
 
-  <div>
-    <label for="exhibitor">Filter by exhibitor:</label>
-    <%= select_tag :exhibitor, options_from_collection_for_select(Event.select(:exhibitor).distinct, :exhibitor, :exhibitor), include_blank: true %>
-  <div>  
-    
-    <%= submit_tag "Filtrar" %>
+  <div class="mb-4" style="margin: 15px 10px 0 10px;">
+    <label for="exhibitor" class="block text-gray-700 font-semibold">Filter by exhibitor:</label>
+    <%= select_tag :exhibitor, options_from_collection_for_select(Event.select(:exhibitor).distinct, :exhibitor, :exhibitor), include_blank: true, class: "mt-1 block w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:border-blue-300" %>
+  </div>
+
+  <div class="text-right" style="margin: 15px 10px 0 10px;">
+    <%= submit_tag "Filtrar", class: "px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500" %>
+  </div>
 <% end %>
 
+<div class="space-y-6 mt-8">
   <% @events.each do |event| %>
-    <h2><%= event.eventName %></h2>
-    <h5><%= event.exhibitor %></h5>
-    <p><%= truncate(event.descripcion, length: 100) %>...</p> 
-    <p>
-      <%= link_to "Show this event", event_path(event) %>
-    </p>
+    <div class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-bold text-gray-800"><%= event.eventName %></h2>
+      <h5 class="text-gray-600"><%= event.exhibitor %></h5>
+      <p class="text-gray-700 mt-2"><%= truncate(event.descripcion, length: 100) %>...</p>
+      <p class="mt-4">
+        <%= link_to "Show this event", event_path(event), class: "text-blue-500 hover:underline" %>
+      </p>
+    </div>
+      
   <% end %>
+  <%= button_to 'Cerrar sesión', destroy_user_session_path, method: :delete , class: "px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition" %>
+</div>
