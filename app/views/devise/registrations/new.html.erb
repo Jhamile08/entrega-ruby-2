@@ -8,7 +8,10 @@
     <%= f.label :"email", class: "block text-gray-700 font-semibold mb-1" %>
     <%= f.email_field :email, autofocus: true, autocomplete: "off", class: "w-1/2 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" %>
   </div>
-
+  <div class="field">
+    <%= f.label :role %><br>
+    <%= f.select :role, options_for_select(['user', 'moderator', 'admin']), prompt: "Select Role" %>
+  </div>
   <div class="mb-4">
     <%= f.label :password, class: "block text-gray-700 font-semibold mb-1" %>
     <% if @minimum_password_length %>
